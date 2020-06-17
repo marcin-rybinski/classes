@@ -1,0 +1,11 @@
+C:\Users\rybin\Desktop\classes\bin\Debug\netcoreapp2.1\classes.deps.json
+C:\Users\rybin\Desktop\classes\bin\Debug\netcoreapp2.1\classes.runtimeconfig.json
+C:\Users\rybin\Desktop\classes\bin\Debug\netcoreapp2.1\classes.runtimeconfig.dev.json
+C:\Users\rybin\Desktop\classes\bin\Debug\netcoreapp2.1\classes.dll
+C:\Users\rybin\Desktop\classes\bin\Debug\netcoreapp2.1\classes.pdb
+C:\Users\rybin\Desktop\classes\obj\Debug\netcoreapp2.1\classes.csprojAssemblyReference.cache
+C:\Users\rybin\Desktop\classes\obj\Debug\netcoreapp2.1\classes.csproj.CoreCompileInputs.cache
+C:\Users\rybin\Desktop\classes\obj\Debug\netcoreapp2.1\classes.AssemblyInfoInputs.cache
+C:\Users\rybin\Desktop\classes\obj\Debug\netcoreapp2.1\classes.AssemblyInfo.cs
+C:\Users\rybin\Desktop\classes\obj\Debug\netcoreapp2.1\classes.dll
+C:\Users\rybin\Desktop\classes\obj\Debug\netcoreapp2.1\classes.pdb
